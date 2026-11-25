@@ -43,9 +43,9 @@
 
 ### 📂 Projeto em Destaque
 
-#### 🔹 [Display](https://github.com/SEU-USUARIO-AQUI/display)
-> *[Escreva aqui em 1 ou 2 linhas o que o projeto Display faz — ex: Aplicação web desenvolvida durante as aulas de Programação Web na ETEC para praticar layouts e interatividade.]*
-- **Tecnologias:** HTML5, CSS3, JavaScript *(ajuste conforme o que usou no projeto)*
+#### 🔹 [Display](https://github.com/Bsilva00/display)
+> *Projeto de HTML e CSS sobre a propriedade display e seus valores*
+- **Tecnologias:** HTML5 e CSS3
 
 ---
 
